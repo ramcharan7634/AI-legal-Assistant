@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Legal Document Assistant
 
 A full-stack AI-powered legal document assistant built with FastAPI and Next.js. This application provides legal risk analysis, document summarization, entity extraction, document generation, and a chat assistant.
@@ -217,6 +217,4 @@ Once the backend is running, visit:
 ## License
 
 MIT
-=======
-# AI-legal-Assistant
->>>>>>> cd21245c45cfa544c544117ab4f27f503ad511e7
+
